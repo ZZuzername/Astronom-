@@ -1,0 +1,25 @@
+{
+  "workers": [
+    {
+      "id": "W001",
+      "name": "Avery Brooks",
+      "department": "Finance",
+      "startDate": "2023-03-15",
+      "skills": ["Excel", "Budgeting", "Workday Financials"]
+    },
+    {
+      "id": "W002",
+      "name": "Jordan Patel",
+      "department": "HR",
+      "startDate": "2021-08-02",
+      "skills": ["Recruiting", "Onboarding", "Workday HCM"]
+    },
+    {
+      "id": "W003",
+      "name": "Riley Chen",
+      "department": "Finance",
+      "startDate": "2024-01-10",
+      "skills": ["Accounts Payable", "SQL", "Reporting"]
+    }
+  ]
+}
